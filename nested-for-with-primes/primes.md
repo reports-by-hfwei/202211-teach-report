@@ -43,7 +43,7 @@ Oct. 28, 2022
 </font>
 
 ---
-![w:700](figs/lets-code.jpeg)
+![w:600](figs/lets-code.jpeg)
 
 ## <mark>primes.c</mark>
 
@@ -53,4 +53,4 @@ Oct. 28, 2022
 ![w:400](figs/prime.jpg)
 
 ---
-![bg w:600](figs/see-you.jpeg)
+![bg w:800](figs/thankyou.jpg)
